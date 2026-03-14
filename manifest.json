@@ -1,0 +1,16 @@
+{
+  "name": "YouTube Lite",
+  "short_name": "YT Lite",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "https://www.youtube.com/s/desktop/28236371/img/favicon_144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
